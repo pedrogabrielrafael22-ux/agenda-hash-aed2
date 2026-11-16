@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=88e788&section=header"/>
 # Agenda de Contatos com Tabela Hash — Configuração 255
 
 **Disciplina:** Algoritmos e Estrutura de Dados II — Laboratório (UFERSA)
@@ -122,3 +123,4 @@ Os tempos variam conforme o computador.
 - A busca de chave ausente foi a mais lenta com α alto, porque percorre a lista inteira do balde; a busca que acha a chave para no meio, em média.
 - Mesmo com α < 1 há colisões (364 com 1.000 contatos), mas o encadeamento as resolve sem perder nenhum contato.
 - Como a capacidade é fixa, o ideal é escolher m próximo do número de contatos esperado.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=88e788&section=footer"/>⠀
