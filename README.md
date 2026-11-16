@@ -3,8 +3,11 @@
 # Agenda de Contatos com Tabela Hash — Configuração 255
 
 **Disciplina:** Algoritmos e Estrutura de Dados II — Laboratório (UFERSA)
-**Professor:** Kennedy Lopes
-**Grupo:** Pedro Gabriel Rafael de Freitas · Rubens Guilherme Lopes do Nascimento · Luan Kauê Rodrigues da Silva
+<br>**Professor:** Kennedy Lopes
+<br>**Grupo:** 
+<br> · Pedro Gabriel Rafael de Freitas 
+<br>· Rubens Guilherme Lopes do Nascimento 
+<br>· Luan Kauê Rodrigues da Silva
 
 ## Configuração
 
